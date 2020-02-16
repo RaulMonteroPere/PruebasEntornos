@@ -2,3 +2,6 @@ patatas
 calabacines
 pepinos
 cebollas
+salchichas
+chorizos
+hamburguesas
