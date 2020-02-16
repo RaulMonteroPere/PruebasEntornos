@@ -2,3 +2,4 @@ patatas
 calabacines
 pepinos
 cebollas
+judias verdes
