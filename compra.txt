@@ -5,3 +5,4 @@ cebollas
 salchichas
 chorizos
 hamburguesas
+entrecot
