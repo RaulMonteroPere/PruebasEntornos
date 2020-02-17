@@ -3,3 +3,4 @@ calabacines
 pepinos
 cebollas
 judias verdes
+pimientos rojos
